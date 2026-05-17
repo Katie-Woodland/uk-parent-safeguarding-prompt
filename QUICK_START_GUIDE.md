@@ -8,7 +8,7 @@ This guide will help you use the free AI prompt in under 5 minutes.
 ### Step-by-step Instructions
 
 1. **Go to the Prompt**
-   - Open this link: [PROMPT.md](PROMPT.md)
+   - Open this link: [AI-PROMPT.md](AI-prompt)
    - Click the **Raw** button (top right)
    - Select all the text and copy it (Ctrl+A then Ctrl+C)
 
