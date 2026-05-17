@@ -22,7 +22,7 @@ Developed from real clinical psychology and advocacy cases by **Katie Woodland**
 - Fully customisable and iterative
 
 ### How to Use
-1. Copy the full prompt from [`PROMPT.md`](PROMPT.md)
+1. Copy the full prompt from [`AI-PROMPT.md`](AI-prompt)
 2. Start a new chat with any strong AI model
 3. Upload your documents (emails, reports, policies, chronologies, attendance records, etc.)
 4. Run stage by stage — the prompt will guide you
